@@ -1,6 +1,6 @@
 # WonderlandCraft-DeBug
 Hier können Fehler und Bugs auf dem WonderlandCraft-Minecraft-Server gemeldet werden.<br>
-[Issues / Probleme]([https://github.com/RaptorXilef/MinecraftLogFilterScript/commit/a3c8f70787e4170181938b44331450c2b738262e](https://github.com/RaptorXilef/WonderlandCraft-DeBug/issues))
+[Issues / Probleme](https://github.com/RaptorXilef/WonderlandCraft-DeBug/issues)
 <br><br><br>
 
 ## WonderlandCraft - Minecraft Server
